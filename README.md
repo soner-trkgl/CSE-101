@@ -1,1 +1,2 @@
-# CSE-101
+# Gebze Technical University 2017-2018 Fall Term
+Course : CSE-101 Homework
